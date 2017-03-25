@@ -5,6 +5,12 @@
 - 整理这样一个模板的目的在于之后后台开发中省去布局和一些样式的步骤，提高效率.
 - 整个模板我仅仅只是用路由进行跳转了各个页面，并没有实际上的连接数据库的过程，这样给使用者更大的创造空间.
 
+## 功能
+- 可设置布局版式(固定布局,盒式布局,切换左侧栏,切换右侧滑动栏,切换右侧栏皮肤)
+- 支持换肤
+- 整个页面的模块细分为一个个section,具有灵活性和重用性
+- 内置Editor.md编辑器，具体样式可以看https://github.com/LaravelChen/laravel-editormd
+
 ## 效果图
 ![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/public/images/adminimg.png)
 
