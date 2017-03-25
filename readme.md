@@ -11,8 +11,11 @@
 - 整个页面的模块细分为一个个section,具有灵活性和重用性
 - 内置Editor.md编辑器，具体样式可以看https://github.com/LaravelChen/laravel-editormd
 
-## 效果图
+## 效果图(部分)
+### 后台首页
 ![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/public/images/adminimg.png)
+### 撰写文章
+![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/public/images/adminarticle.png)
 
 ## 安装
 ### 1.clone到本地
