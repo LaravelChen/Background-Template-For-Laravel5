@@ -6,7 +6,7 @@
 - 整个模板我仅仅只是用路由进行跳转了各个页面，并没有实际上的连接数据库的过程，这样给使用者更大的创造空间.
 
 ## 效果图
-![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/img/adminimg.png)
+![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/images/adminimg.png)
 
 ## 安装
 #### 1.clone到本地
