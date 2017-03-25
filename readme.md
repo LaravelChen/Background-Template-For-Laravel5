@@ -6,19 +6,19 @@
 - 整个模板我仅仅只是用路由进行跳转了各个页面，并没有实际上的连接数据库的过程，这样给使用者更大的创造空间.
 
 ## 效果图
-![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/images/adminimg.png)
+![image](https://github.com/LaravelChen/Background-Template-For-Laravel5/raw/master/public/images/adminimg.png)
 
 ## 安装
-#### 1.clone到本地
+### 1.clone到本地
 ```
 git clone https://github.com/LaravelChen/Background-Template-For-Laravel5.git
 ```
-#### 2.根目录下创建.env文件
+### 2.根目录下创建.env文件
 ```
  php artisan key:generate  //生成key值
 ```
 
-#### 3.安装依赖
+### 3.安装依赖
 ```
 composer install
 ```
